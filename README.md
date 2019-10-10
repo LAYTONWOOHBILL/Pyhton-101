@@ -1,2 +1,3 @@
-# Pyhton-101
-python 101
+# Pyhton 
+python 101 basic class 
+python 102 Fun class 
