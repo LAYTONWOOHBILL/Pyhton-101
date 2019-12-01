@@ -1,6 +1,7 @@
 # Pyhton 
 python 101 basic class 
 
+hw 1-8
 
 python 102 Fun class 
 
