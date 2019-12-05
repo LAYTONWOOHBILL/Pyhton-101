@@ -1,9 +1,10 @@
 # Pyhton 
-python 101 basic class 
+
+#######python 101 basic class#######
 
 hw 1-8
 
-python 102 Fun class 
+#######python 102 Fun class#######
 
 • Python Review
 
@@ -30,3 +31,9 @@ Assigment 08
 • Packages
 
 Assigment 09
+
+######6.0002######
+
+6.0002 Problem Set 1: Space Cows Transportation
+
+• ps1a
